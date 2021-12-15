@@ -1,5 +1,4 @@
-# SMS_Android-apps-reliability
-A systematic mapping study addressing the reliability of mobile applications: the need to move beyond testing reliability
+# A systematic mapping study addressing the reliability of mobile applications: the need to move beyond testing reliability
 
 Chathrie Wimalasooriya, Sherlock A. Licorish, Daniel Alencar da Costa, Stephen G. MacDonell
 
